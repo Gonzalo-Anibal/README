@@ -96,6 +96,8 @@ Professional Practice, where he helped me develop my soft skills in HelpDesk in 
 
 ### X Jornadas Latinoamericanas de Agilidad
 
+[**JSConf Chile 2023**](https://jsconf.cl/)
+
 [**Ágiles 2017**](http://agiles2017.agiles.org/)
 
 ## Patents
